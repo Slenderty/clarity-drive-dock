@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/drive-dock.clar"
 depends_on = []
 
+[contracts.payment-handler]
+path = "contracts/payment-handler.clar"
+depends_on = []
+
 [contracts.user-registry]
 path = "contracts/user-registry.clar"
 depends_on = []
